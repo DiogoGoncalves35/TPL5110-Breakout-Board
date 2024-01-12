@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","0.1 uF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",145.000000,-107.000000,180.000000,top
+"J1","CONN_Left","PinHeader_1x03_P2.54mm_Vertical",132.950000,-107.475000,0.000000,top
+"J2","CONN_Right","PinHeader_1x03_P2.54mm_Vertical",156.950000,-112.555000,180.000000,top
+"R1","R","R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",147.540000,-117.000000,180.000000,top
+"U1","TPL5110","SOT-23-6",145.000500,-110.000000,0.000000,top

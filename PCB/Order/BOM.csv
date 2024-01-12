@@ -1,0 +1,6 @@
+"Reference","Value","Footprint","LCSC","Qtd"
+"C1","0.1 uF","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","C14663","1"
+"J1","CONN_Left","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","","1"
+"J2","CONN_Right","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","","1"
+"R1","R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","","1"
+"U1","TPL5110","Package_TO_SOT_SMD:SOT-23-6","C125830","1"
