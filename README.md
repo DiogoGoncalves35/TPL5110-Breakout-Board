@@ -1,5 +1,7 @@
 # Low Power TPL5110 Breakout Board
 
+![Kicad](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
+
 This small breakout board is designed arround the [TPL5110 Timer](https://www.ti.com/lit/ds/symlink/tpl5110.pdf?ts=1704823351945&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
 <img src="/Images/Board.png">
